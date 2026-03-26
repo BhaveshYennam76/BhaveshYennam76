@@ -1,5 +1,34 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building cross-platform mobile applications using Flutter & Dart, focusing on scalable architecture, Firebase integration, and real-time features.<br>👯 I’m looking to collaborate on<br>Flutter-based mobile apps, real-time systems, and innovative projects involving Firebase, REST APIs, or UI/UX-focused applications.<br>🤝 I’m looking for help with<br>Improving advanced app architecture (Clean Architecture, state management), performance optimization, and gaining deeper expertise in backend integration.<br>🌱 I’m currently learning<br>Advanced Flutter concepts, scalable system design, REST API optimization, and improving UI/UX design principles.<br>💬 Ask me about<br>Flutter development, Firebase integration, REST APIs, real-time applications, and building responsive mobile UIs.<br>⚡ Fun fact<br>I enjoy turning real-world problems into practical mobile apps—like building a QR-based smart restaurant system and a stock trading simulator 🚀
+🔭 I’m currently working on
+- Building cross-platform mobile applications using Flutter & Dart
+- Focusing on scalable architecture, Firebase integration, and real-time features
+
+👯 I’m looking to collaborate on
+- Flutter-based mobile apps
+- Real-time systems
+- Projects involving Firebase, REST APIs, and UI/UX-focused applications
+
+🤝 I’m looking for help with
+- Advanced app architecture (Clean Architecture, state management)
+- Performance optimization
+- Backend integration
+
+🌱 I’m currently learning
+- Advanced Flutter concepts
+- Scalable system design
+- REST API optimization
+- UI/UX design principles
+
+💬 Ask me about
+- Flutter development
+- Firebase integration
+- REST APIs
+- Real-time applications
+- Responsive mobile UI building
+
+⚡ Fun fact
+- I enjoy turning real-world problems into practical mobile apps
+- Built a QR-based smart restaurant system and a stock trading simulator 🚀
 
 
 ## 🌐 Socials:
